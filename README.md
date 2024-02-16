@@ -12,7 +12,7 @@
 
 **Let's Setup Google Apps**
 
-1. opengapps-pico-for-huawei-y6p-magisk.zip module in to Magisk.
+1. Install opengapps-pico-for-huawei-y6p-magisk.zip module in to Magisk.
 2. Restart your device.
 3. Install PrebuiltGmsCore.apk
 4. Add your Google Account.
